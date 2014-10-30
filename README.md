@@ -47,39 +47,3 @@ Examples
 Run the example code as follows:
 
     $ sudo python examples/test.py
-
-References
-----------
-* http://hackaday.com/2013/01/06/hardware-spi-with-python-on-a-raspberry-pi/
-* http://gammon.com.au/forum/?id=11516
-* https://github.com/lthiery/SPI-Py
-* http://louisthiery.com/spi-python-hardware-spi-for-raspi/
-* http://www.brianhensley.net/2012/07/getting-spi-working-on-raspberry-pi.html
-* http://raspi.tv/2013/8-x-8-led-array-driven-by-max7219-on-the-raspberry-pi-via-python
-
-License
--------
-Portions of this code are derived from https://github.com/lthiery/SPI-Py
-which includes the following license notice:
-
-> COPYRIGHT (C) 2012 Louis Thiery. All rights reserved. 
-Further work by Connor Wolf.
-
-> This program is free software; you can redistribute it and/or modify it
-under the terms of the GNU General Public License V2 as published by the 
-Free Software Foundation.
-
-> LIABILITY
->This program is distributed for educational purposes only and is no way 
-suitable for any particular application, especially commercial. There is
-no implied suitability so use at your own risk!
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/rm-hull/max7219/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
-=======
-dotmatrix
-=========
-
-RPI Dot Matrix Counter
->>>>>>> 609c7ba1e923cd25094993b934e6fd8c89a22789
